@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ee8741a8c692341841d4976f06ff08, type: 3}
+  m_Name: FatMaterialConfig
+  m_EditorClassIdentifier: 
+  _fatMaterial:
+  - part: 0
+    material: {fileID: 2100000, guid: 844eafbf45b8c754aa33cbfca7603fc1, type: 2}
+  - part: 1
+    material: {fileID: 2100000, guid: 1d093c842dff41f4aae495f1aa63231a, type: 2}
+  - part: 2
+    material: {fileID: 2100000, guid: 1df2177f24cf5ea47932f40bed6ca09b, type: 2}
+  - part: 3
+    material: {fileID: 2100000, guid: ad095404c63cc0045bcc1587580fbf8d, type: 2}
+  - part: 4
+    material: {fileID: 2100000, guid: 787f57cc37831ad499d9d2d2d23fd65b, type: 2}
+  - part: 5
+    material: {fileID: 2100000, guid: 2de830fdcf75b5b4188e5117f45c1fff, type: 2}

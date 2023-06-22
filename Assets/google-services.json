@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "731083168113",
+    "firebase_url": "https://i-body-release-6ca52.firebaseio.com",
+    "project_id": "i-body-release-6ca52",
+    "storage_bucket": "i-body-release-6ca52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731083168113:android:9674695d8ca4b208",
+        "android_client_info": {
+          "package_name": "biz.sinfonia.threedbldev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731083168113-v4o8lncttuikngufleqhvi753gsum2t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBovU--ZPaLFKJj4-DnJ7PHz9TbC85OLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731083168113-v4o8lncttuikngufleqhvi753gsum2t8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731083168113-t794b1thaqlvppkcn1nsma87pjs6dql0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "biz.sinfonia.3dbldev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731083168113:android:68e9b07358c025c9",
+        "android_client_info": {
+          "package_name": "jp.co.threedbodylab.pocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731083168113-v4o8lncttuikngufleqhvi753gsum2t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBovU--ZPaLFKJj4-DnJ7PHz9TbC85OLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731083168113-v4o8lncttuikngufleqhvi753gsum2t8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731083168113-t794b1thaqlvppkcn1nsma87pjs6dql0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "biz.sinfonia.3dbldev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

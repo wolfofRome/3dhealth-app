@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f57324a0a5b056742a50adb8f5b3aa77, type: 3}
+  m_Name: ObjLoadConfig
+  m_EditorClassIdentifier: 
+  _scale: 0.001
+  _color: {r: 1, g: 1, b: 1, a: 1}
+  _opaqueMaterial: {fileID: 2100000, guid: b4ff5c1b56ea1694681bbcc86427907e, type: 2}
+  _fadeMaterial: {fileID: 2100000, guid: a9cd68385a1afd74a9858033ec529223, type: 2}

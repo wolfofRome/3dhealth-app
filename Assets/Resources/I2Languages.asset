@@ -1,0 +1,1827 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Ar-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ar-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "3D\u30B9\u30AD\u30E3\u30F3"
+      - 
+      - "3D\u626B\u63CF"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ar-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3042\u306A\u305F\u306E\uFF13D\u30C7\u30FC\u30BF"
+      - 
+      - "\u60A8\u76843D\u6570\u636E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ar-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6709\u540D\u4EBA\u306E\uFF13D\u30C7\u30FC\u30BF"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ar-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6BD4\u8F03\u3059\u308B"
+      - 
+      - "\u6BD4\u8F83"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "2017\u5E74"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "1\u6708"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4ECA\u65E5"
+      - 
+      - "\u4ECA\u5929"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AB\u30EC\u30F3\u30C0\u30FC"
+      - 
+      - "\u65E5\u5386"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E88\u7D04"
+      - 
+      - "\u9884\u7EA6"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D5\u30A3\u30C3\u30C8\u30CD\u30B9"
+      - 
+      - "\u5065\u8EAB\u8FD0\u52A8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-007
+      TermType: 0
+      Description: 
+      Languages:
+      - "EMS\u30C8\u30EC\u30FC\u30CB\u30F3\u30B0"
+      - 
+      - "EMS\u8BAD\u7EC3"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-008
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u30C8\u30EC\n(\u80F8)"
+      - 
+      - "\u808C\u8089\u953B\u70BC\n\uFF08\u80F8\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-009
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u30C8\u30EC\n(\u8155)"
+      - 
+      - "\u808C\u8089\u953B\u70BC\n\uFF08\u624B\u8155\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-010
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u30C8\u30EC\n(\u80CC\u4E2D)"
+      - 
+      - "\u808C\u8089\u953B\u70BC\n\uFF08\u80CC\u90E8\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-011
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u30C8\u30EC\n(\u8179\u7B4B)"
+      - 
+      - "\u808C\u8089\u953B\u70BC\n\uFF08\u8179\u808C\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-012
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u30C8\u30EC\n(\u4E0B\u534A\u8EAB)"
+      - 
+      - "\u808C\u8089\u953B\u70BC\n\uFF08\u4E0B\u534A\u8EAB\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-013
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D7\u30FC\u30EB"
+      - 
+      - "\u6E38\u6CF3\u6C60"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-014
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30E9\u30F3\u30CB\u30F3\u30B0\u30FB\n\u30A6\u30A9\u30FC\u30AD\u30F3\u30B0"
+      - 
+      - "\u8DD1\u6B65\u8D70\u8DEF"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-015
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u81EA\u8EE2\u8ECA"
+      - 
+      - "\u81EA\u884C\u8F66"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-016
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B9\u30C8\u30EC\u30C3\u30C1\u30FB\n\u30E8\u30AC"
+      - 
+      - "\u62C9\u4F38\u745C\u4F3D"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-017
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u305D\u306E\u4ED6"
+      - 
+      - "\u5176\u4ED6"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-018
+      TermType: 0
+      Description: 
+      Languages:
+      - "EMS/\u8155"
+      - 
+      - "EMS/\u624B\u8155"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-019
+      TermType: 0
+      Description: 
+      Languages:
+      - "EMS/\u8179"
+      - 
+      - "EMS/\u8179\u90E8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-020
+      TermType: 0
+      Description: 
+      Languages:
+      - "EMS/\u80CC\u4E2D"
+      - 
+      - "EMS/\u80CC\u90E8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-021
+      TermType: 0
+      Description: 
+      Languages:
+      - "EMS/\u811A"
+      - 
+      - "EMS/\u811A"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-022
+      TermType: 0
+      Description: 
+      Languages:
+      - "EMS/\u5C3B"
+      - 
+      - "EMS/\u81C0\u90E8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-023
+      TermType: 0
+      Description: 
+      Languages:
+      - "EMS/\u9854"
+      - 
+      - "EMS/\u8138\u90E8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-024
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6E29\u810A\u690E\uFF0B\n\u30BB\u30F3\u30B5\u30FC\u30B9\u30C8\u30EC\u30C3\u30C1"
+      - 
+      - "\u810A\u690E\u52A0\u70ED+\n\u611F\u5E94\u62C9\u4F38"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ca-025
+      TermType: 0
+      Description: 
+      Languages:
+      - "3D\u30B9\u30AD\u30E3\u30F3\u3092\u307F\u308B"
+      - 
+      - "\u89C2\u770B3D\u626B\u63CF"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6BD4\u8F03\u691C\u8A3C"
+      - 
+      - "\u6BD4\u8F83\u9A8C\u8BC1"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8EAB\u9577\u3092\u30D5\u30A3\u30C3\u30C8"
+      - 
+      - "\u9002\u5408\u8EAB\u9AD8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5B9F\u5BF8\u3067\u8868\u793A"
+      - 
+      - "\u7528\u5C3A\u5BF8\u8868\u793A"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AB\u30E9\u30FC"
+      - 
+      - "\u5F69\u8272"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u900F\u660E\u5EA6"
+      - 
+      - "\u900F\u660E\u5EA6"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5916\u898B"
+      - 
+      - "\u5916\u89C2"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-007
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8DDD\u96E2"
+      - 
+      - "\u8DDD\u79BB"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-008
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8EAB\u9577"
+      - 
+      - "\u8EAB\u9AD8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-009
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u91CD"
+      - 
+      - "\u4F53\u91CD"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-010
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u8102\u80AA\u7387"
+      - 
+      - "\u4F53\u8102\u80AA\u7387"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-011
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u57FA\u790E\u4EE3\u8B1D"
+      - 
+      - "\u57FA\u7840\u4EE3\u8C22"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-012
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u8102\u80AA\u91CF(\u4F53\u5E79)"
+      - 
+      - "\u4F53\u8102\u80AA\u91CF\uFF08\u8EAF\u5E72\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-013
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u8089\u91CF(\u4F53\u5E79)"
+      - 
+      - "\u808C\u8089\u91CF\uFF08\u8EAF\u5E72\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-014
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u8102\u80AA\u91CF(\u53F3\u8155)"
+      - 
+      - "\u4F53\u8102\u80AA\u91CF\uFF08\u53F3\u624B\u8155\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-015
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u8089\u91CF(\u53F3\u8155)"
+      - 
+      - "\u808C\u8089\u91CF\uFF08\u53F3\u624B\u8155\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-016
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u8102\u80AA\u91CF(\u5DE6\u8155)"
+      - 
+      - "\u4F53\u8102\u80AA\u91CF\uFF08\u5DE6\u624B\u8155\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-017
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u8089\u91CF(\u5DE6\u8155)"
+      - 
+      - "\u808C\u8089\u91CF\uFF08\u5DE6\u624B\u8155\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-018
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u8102\u80AA\u91CF(\u53F3\u811A)"
+      - 
+      - "\u4F53\u8102\u80AA\u91CF\uFF08\u53F3\u811A\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-019
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u8089\u91CF(\u53F3\u811A)"
+      - 
+      - "\u808C\u8089\u91CF\uFF08\u53F3\u811A\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-020
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u8102\u80AA\u91CF(\u5DE6\u811A)"
+      - 
+      - "\u4F53\u8102\u80AA\u91CF\uFF08\u5DE6\u811A\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Co-021
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u8089\u91CF(\u5DE6\u811A)"
+      - 
+      - "\u808C\u8089\u91CF\uFF08\u5DE6\u811A\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Du-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hi-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hi-001
+      TermType: 0
+      Description: 
+      Languages:
+      - Tooltip
+      - Tooltip
+      - Tooltip
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hi-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uFF11\u9031\u9593"
+      - 1Week
+      - "1\u4E2A\u661F\u671F"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hi-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uFF11\u30F6\u6708"
+      - 1Month
+      - "1\u4E2A\u6708"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hi-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uFF13\u30F6\u6708"
+      - 3Months
+      - "3\u4E2A\u6708"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hi-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uFF16\u30F6\u6708"
+      - 6Months
+      - "6\u4E2A\u6708"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hi-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uFF11\u5E74"
+      - 1Year
+      - "1\u5E74"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: La-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: La-001
+      TermType: 0
+      Description: 
+      Languages:
+      - '   Loading...'
+      - '   Loading...'
+      - "   \u52A0\u8F7D\u2026"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u643A\u5E2F\u756A\u53F7"
+      - 
+      - "\u624B\u673A\u53F7\u6216"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D1\u30B9\u30EF\u30FC\u30C9"
+      - Pass Word
+      - "\u5BC6\u7801"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "ID\u307E\u305F\u306F\u30D1\u30B9\u30EF\u30FC\u30C9\u304C\u6B63\u3057\u304F\u3042\u308A\u307E\u305B\u3093\u3002"
+      - 
+      - "ID\u6216\u8005\u5BC6\u7801\u4E0D\u6B63\u786E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-004
+      TermType: 0
+      Description: 
+      Languages:
+      - " \u6B21\u56DE\u304B\u3089\u81EA\u52D5\u3067\u30ED\u30B0\u30A4\u30F3\u3059\u308B"
+      - 
+      - " \u4E0B\u6B21\u81EA\u52A8\u767B\u5F55"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D1\u30B9\u30EF\u30FC\u30C9\u3092\u304A\u5FD8\u308C\u306E\u65B9"
+      - 
+      - "\u5FD8\u8BB0\u5BC6\u7801"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u307E\u3060ID\u3092\u304A\u6301\u3061\u3067\u306A\u3044\u65B9\u306F\u3053\u3061\u3089"
+      - 
+      - "\u8FD8\u6CA1\u6709\u6CE8\u518CID\u7684\u7528\u6237"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-007
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30C7\u30E2\u3067\u4F53\u9A13\u3059\u308B"
+      - 
+      - "\u4F53\u9A8CDEMO"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lg-008
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u65B0\u898F\u767B\u9332 (\u7121\u6599)"
+      - 
+      - "\u7528\u6237\u6CE8\u518C\uFF08\u514D\u8D39\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Na-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Na-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D7\u30ED\u30D5\u30A3\u30FC\u30EB"
+      - Profile
+      - "\u6863\u6848"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Na-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "3D\u30B9\u30AD\u30E3\u30F3"
+      - 3D Scan
+      - "3D\u626B\u63CF"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Na-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AB\u30EC\u30F3\u30C0\u30FC"
+      - Calender
+      - "\u65E5\u5386"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Na-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6709\u540D\u4EBA3D\u30B9\u30AD\u30E3\u30F3"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Na-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E0\u306B\u3064\u3044\u3066"
+      - About Gim
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Na-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "3D\u30B9\u30AD\u30E3\u30F3\u4E88\u7D04"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: No-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pp-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pp-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "3,000\u5186"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pp-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "5,000\u5186"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pp-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "5,000\u5186"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pp-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8868\u793A\u4FA1\u683C\u306F\u6D88\u8CBB\u7A0E\u8FBC\u307F\u306E\u91D1\u984D\u3067\u3059\u3002"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pp-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30DD\u30A4\u30F3\u30C8\u6B8B\u9AD81,3000pt"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pp-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6709\u540D\u4EBA3D"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pc-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pf-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pf-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30C7\u30E2\u7248\u3092\u898B\u3066\u307F\u308B"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pf-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u767B\u9332\u60C5\u5831\u3092\u898B\u308B"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ph-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ph-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8EAB\u9577\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+      - Enter your tall.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ph-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F8B 150.5"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ph-003
+      TermType: 0
+      Description: 
+      Languages:
+      - cm
+      - cm
+      - "\u5398\u7C73"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ph-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30A8\u30E9\u30FC\u306E\u5834\u5408\u3053\u3053\u306B\u30E1\u30C3\u30BB\u30FC\u30B8\u304C\u8868\u793A\u3055\u308C\u307E\u3059\u3002"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ph-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6C7A\u5B9A"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ph-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xB0"
+      - "\xB0"
+      - "\u5EA6"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ppc-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ppc-001
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ppc-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3053\u306E\u307E\u307E\u9032\u3080"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ppc-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u9A13\u7248\u3092\u8A66\u3059"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ppc-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3053\u306E\u753B\u9762\u3092\u4ECA\u5F8C\u8868\u793A\u3057\u306A\u3044"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Qr-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Qr-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "3D Body ID QR\u30B3\u30FC\u30C9"
+      - QR-Code for 3D Body ID
+      - "3D\u8EAB\u4F53\u6807\u8BC6\u4E8C\u7EF4\u7801"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30C7\u30FC\u30BF"
+      - Data
+      - "\u6570\u636E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B5\u30A4\u30BA"
+      - Size
+      - "\u5C3A\u5BF8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u7D44\u6210"
+      - 
+      - "\u8EAB\u4F53\u7EC4\u6210"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-004
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uFF08\u8EAB\u9577\u3068\u80A1\u4E0B\u306F\u8DB3\u3092\u958B\u3044\u3066\u3044\u308B\u70B9\u3092\u8003\u616E\u3057\u305F\u88DC\u6B63\u5024\uFF09"
+      - 
+      - "(\u8003\u8651\u5230\u811A\u5BF9\u5916\u5F20\u5F00\uFF0C\u5BF9\u8EAB\u9AD8\u548C\u4E0B\u6863\u505A\u4E86\u77EB\u6B63\u503C)"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-005
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u80A1\u4E0B\u9AD8"
+      - 
+      - "\u4E0B\u6863\u957F\u5EA6"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-006
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D0\u30B9\u30C8"
+      - Chest
+      - "\u80F8\u56F4"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-007
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30A6\u30A8\u30B9\u30C8"
+      - Waist
+      - "\u8170\u56F4"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-008
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D2\u30C3\u30D7"
+      - Hip
+      - "\u81C0\u56F4"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-009
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9996\u56DE\u308A"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-010
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E0A\u8155(\u5DE6)"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-011
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E0A\u8155(\u53F3)"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-012
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8896\u4E08(\u5DE6)"
+      - 
+      - "\u8896\u957F\uFF08\u5DE6\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-013
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8896\u4E08(\u53F3)"
+      - 
+      - "\u8896\u957F\uFF08\u53F3\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-014
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u80A9\u5E45(\u5DE6)"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-015
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u80A9\u5E45(\u53F3)"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-016
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5927\u817F\u56F2(\u5DE6)"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Td-017
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5927\u817F\u56F2(\u53F3)"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tl-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u65B0\u898F\u767B\u9332"
+      - New Registration
+      - "\u7528\u6237\u6CE8\u518C"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-002
+      TermType: 0
+      Description: 
+      Languages:
+      - "3D\u30E2\u30FC\u30C9"
+      - 3D Mode
+      - "3D\u6A21\u5F0F"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-003
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E00\u89A7"
+      - List
+      - "\u4E00\u89C8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-004
+      TermType: 0
+      Description: 
+      Languages:
+      - LEFT
+      - LEFT
+      - "\u5DE6"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-005
+      TermType: 0
+      Description: 
+      Languages:
+      - RIGHT
+      - RIGHT
+      - "\u53F3"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-006
+      TermType: 0
+      Description: 
+      Languages:
+      - FRONT
+      - FRONT
+      - "\u524D"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-007
+      TermType: 0
+      Description: 
+      Languages:
+      - BACK
+      - BACK
+      - "\u540E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-008
+      TermType: 0
+      Description: 
+      Languages:
+      - TOP
+      - TOP
+      - "\u4E0A"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-009
+      TermType: 0
+      Description: 
+      Languages:
+      - UNDER
+      - UNDER
+      - "\u4E0B"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-010
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E8C\u306E\u8155(\u5DE6)"
+      - Left Sleeve
+      - "\u4E0A\u81C2\uFF08\u5DE6\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-011
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E8C\u306E\u8155(\u53F3)"
+      - Right Sleeve
+      - "\u4E0A\u81C2\uFF08\u53F3\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-012
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u592A\u3082\u3082(\u5DE6)"
+      - Left Tigh
+      - "\u5927\u817F\uFF08\u5DE6\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-013
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u592A\u3082\u3082(\u53F3)"
+      - Right Tigh
+      - "\u5927\u817F\uFF08\u53F3\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-014
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3075\u304F\u3089\u306F\u304E(\u5DE6)"
+      - Left Calf
+      - "\u5C0F\u817F\u809A\uFF08\u5DE6\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-015
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3075\u304F\u3089\u306F\u304E(\u53F3)"
+      - Right Calf
+      - "\u5C0F\u817F\u809A\uFF08\u53F3\uFF09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-016
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u8102\u80AA\u91CF"
+      - 
+      - "\u4F53\u8102\u80AA\u91CF"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-017
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u8089\u91CF"
+      - 
+      - "\u808C\u8089\u91CF"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-018
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9AA8\u683C\u91CF"
+      - 
+      - "\u9AA8\u9ABC\u91CF"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-019
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5185\u81D3\u8102\u80AA\u30EC\u30D9\u30EB"
+      - 
+      - "\u5185\u810F\u8102\u80AA\u7B49\u7EA7"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-020
+      TermType: 0
+      Description: 
+      Languages:
+      - BMI
+      - 
+      - "BMI\u4F53\u8D28\u6307\u6570"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-021
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B9\u30B1\u30B8\u30E5\u30FC\u30EB"
+      - 
+      - "\u65E5\u7A0B\u5B89\u6392"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-022
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u81EA\u7531\u66F8\u8FBC\u307F"
+      - 
+      - "\u81EA\u7531\u586B\u5199"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-023
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8102\u80AA / \u7B4B\u8089 / \u9AA8"
+      - 
+      - "\u8102\u80AA/\u808C\u8089/\u9AA8\u9ABC"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-024
+      TermType: 0
+      Description: 
+      Languages:
+      - "3D\u30E2\u30FC\u30C9"
+      - 3D Mode
+      - "3D\u6A21\u5F0F"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-025
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u59FF\u52E2\u6BD4\u8F03"
+      - 
+      - "\u59FF\u6001\u6BD4\u8F83"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-026
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u59FF\u52E2\u30A2\u30C9\u30D0\u30A4\u30B9"
+      - 
+      - "\u59FF\u6001\u5EFA\u8BAE"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-027
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F53\u578B\u5206\u6790"
+      - 
+      - "\u4F53\u578B\u5206\u6790"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-028
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7A4D\u307F\u6728\u5206\u6790"
+      - 
+      - "\u79EF\u6728\u5206\u6790"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-029
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B7\u30A7\u30A2"
+      - Share
+      - "\u5206\u4EAB"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-030
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5143\u306B\u623B\u3059"
+      - 
+      - "\u8FD8\u539F"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-031
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5168\u3066\u6D88\u3059"
+      - 
+      - "\u5168\u90E8\u6D88\u9664"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-032
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8102\u80AA"
+      - 
+      - "\u8102\u80AA"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-033
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B4B\u8089"
+      - 
+      - "\u808C\u8089"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-034
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u304A\u3059\u3059\u3081Exercise"
+      - 
+      - "\u63A8\u8350\u7EC3\u4E60"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6B63\u9762"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6B63\u9762"
+      - 
+      - "\u6B63\u9762"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6A2A\u9762"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6A2A\u9762"
+      - 
+      - "\u4FA7\u9762"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-035
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u592A\u3081"
+      - 
+      - "\u80A5\u80D6"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-036
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7D30\u3081"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-037
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30FC\u30D0\u30FC"
+      - 
+      - "\u8D85\u8FC7"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-038
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30A2\u30F3\u30C0\u30FC"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tdv-039
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u592A\u3082\u3082"
+      - 
+      - "\u5927\u817F "
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u3042\u306A\u305F\u306E\u30A6\u30A8\u30B9\u30C8"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3042\u306A\u305F\u306E\u30A6\u30A8\u30B9\u30C8(\u6700\u5C0F\u5024)"
+      - 
+      - "\u60A8\u7684\u8170\u56F4"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u7406\u60F3\u306E\u30A6\u30A8\u30B9\u30C8"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7406\u60F3\u306E\u30A6\u30A8\u30B9\u30C8"
+      - 
+      - "\u7406\u60F3\u7684\u8170\u56F4"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u3042\u306A\u305F\u306E\u30D2\u30C3\u30D7"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3042\u306A\u305F\u306E\u30D2\u30C3\u30D7"
+      - 
+      - "\u60A8\u7684\u81C0\u56F4"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u7406\u60F3\u306E\u30D2\u30C3\u30D7"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7406\u60F3\u306E\u30D2\u30C3\u30D7"
+      - 
+      - "\u7406\u60F3\u7684\u81C0\u56F4"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u3042\u306A\u305F\u306E\u592A\u3082\u3082"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3042\u306A\u305F\u306E\u592A\u3082\u3082"
+      - 
+      - "\u60A8\u7684\u5927\u817F"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u7406\u60F3\u306E\u592A\u3082\u3082"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7406\u60F3\u306E\u592A\u3082\u3082"
+      - 
+      - "\u7406\u60F3\u7684\u5927\u817F"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u3042\u304F\u307E\u3067\u3082\u53C2\u8003\u60C5\u5831\u3067\u3059\u306E\u3067"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3042\u304F\u307E\u3067\u3082\u53C2\u8003\u60C5\u5831\u3067\u3059\u306E\u3067\u3001\u8A73\u3057\u304F\u306F\u7406\u5B66\u7642\u6CD5\u58EB\u3001\u67D4\u9053\u6574\u5FA9\u5E2B\u7B49\u3092\u542B\u3081\u5C02\u9580\u533B\u306B\u3054\u76F8\u8AC7\u3055\u308C\u308B\u3053\u3068\u3092\u304A\u52E7\u3081\u3044\u305F\u3057\u307E\u3059\u3002"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u30A2\u30C9\u30D0\u30A4\u30B9\u3092\u9589\u3058\u308B"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30A2\u30C9\u30D0\u30A4\u30B9\u3092\u9589\u3058\u308B"
+      - 
+      - "\u628A\u5EFA\u8BAE\u95ED\u8D77\u6765"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Wv-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Wv-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7DE8\u96C6"
+      - Edit
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-000
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-001
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3042\u306A\u305F\u306E\u201C\u7406\u60F3\u201D\u304C\u898B\u3048\u3066\u304F\u308B"
+      - 
+      - "\u4F60\u7684\u7406\u60F3\u5C31\u5728\u773C\u524D"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-002
+      TermType: 0
+      Description: 
+      Languages:
+      - Sun
+      - Sun
+      - "\u5929"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-003
+      TermType: 0
+      Description: 
+      Languages:
+      - Mon
+      - Mon
+      - "\u4E00"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-004
+      TermType: 0
+      Description: 
+      Languages:
+      - Tue
+      - Tue
+      - "\u4E8C"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-005
+      TermType: 0
+      Description: 
+      Languages:
+      - Wed
+      - Wed
+      - "\u4E09"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-006
+      TermType: 0
+      Description: 
+      Languages:
+      - Thu
+      - Thu
+      - "\u56DB"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-007
+      TermType: 0
+      Description: 
+      Languages:
+      - Fri
+      - Fri
+      - "\u4E94"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-008
+      TermType: 0
+      Description: 
+      Languages:
+      - Sat
+      - Sat
+      - "\u516D"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-009
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u304A\u77E5\u3089\u305B"
+      - 
+      - "\u901A\u77E5"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-010
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30DD\u30A4\u30F3\u30C8\u8CFC\u5165"
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-011
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AD\u30E3\u30F3\u30BB\u30EB"
+      - Cancel
+      - "\u53D6\u6D88"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-012
+      TermType: 0
+      Description: 
+      Languages:
+      - OK
+      - OK
+      - "\u597D\u7684"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-013
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30ED\u30B0\u30A4\u30F3"
+      - Login
+      - "\u767B\u5F55"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-014
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30ED\u30B0\u30A2\u30A6\u30C8"
+      - Logout
+      - "\u6CE8\u9500"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-015
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30ED\u30B0\u30A2\u30A6\u30C8\u3057\u307E\u3059\u304B\uFF1F"
+      - 
+      - "\u9700\u8981\u6CE8\u9500\u5417"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-016
+      TermType: 0
+      Description: 
+      Languages:
+      - "QR\u30B3\u30FC\u30C9\u3092\u8868\u793A"
+      - 
+      - "\u663E\u793A\u4E8C\u7EF4\u7801"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-017
+      TermType: 0
+      Description: 
+      Languages:
+      - Close
+      - Close
+      - "\u5173\u95ED"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Oth-018
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6574\u9AA8\u9662\u3092\u63A2\u3059"
+      - 
+      - "\u5BFB\u627E\u6B63\u9AA8\u533B\u9662"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8A00\u8A9E\u8A2D\u5B9A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8A00\u8A9E\u8A2D\u5B9A"
+      - Language Setting
+      - "\u8A9E\u8A00\u8A2D\u7F6E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u30B7\u30B9\u30C6\u30E0\u66F4\u65B0\u306E\u70BA"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B7\u30B9\u30C6\u30E0\u66F4\u65B0\u306E\u70BA\n\u30A2\u30D7\u30EA\u30B1\u30FC\u30B7\u30E7\u30F3\u3092\n\u7D42\u4E86\u3057\u307E\u3059\u3002"
+      - 'Shutdown
+
+        Application
+
+        for
+
+        System Rewrite.'
+      - "\u56E0\u4E3A\u7CFB\u7EDF\u66F4\u65B0\n\u5173\u95ED\u5E94\u7528\u3002"
+      Flags: 000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: English (United States)
+      Code: en-US
+      Flags: 0
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: StreamingAssets/Language/Language.csv
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

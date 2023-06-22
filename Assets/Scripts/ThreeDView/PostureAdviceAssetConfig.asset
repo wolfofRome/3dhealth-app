@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336986ff5a5d6a949ad9d4e91b85a172, type: 3}
+  m_Name: PostureAdviceAssetConfig
+  m_EditorClassIdentifier: 
+  _trainingAssetList:
+  - _id: 0
+    _images:
+    - {fileID: 21300000, guid: 580e75bb26ef44e4c9a5a5ed43e5f5bd, type: 3}
+    - {fileID: 21300000, guid: 8ac0efbd18b6456498c442469c996ae0, type: 3}
+  - _id: 1
+    _images:
+    - {fileID: 21300000, guid: 6a5e34625c738d143ab082efb661a6f4, type: 3}
+    - {fileID: 21300000, guid: f6109f99cff80d942934b07290ced190, type: 3}
+  - _id: 2
+    _images:
+    - {fileID: 21300000, guid: 1fc3d515421b57e4caa1c0c9ef72f63c, type: 3}
+    - {fileID: 21300000, guid: c0eda39b888b70749af79853628cd435, type: 3}
+  - _id: 3
+    _images:
+    - {fileID: 21300000, guid: e99a0379aa504014e8be44634d3839f7, type: 3}
+    - {fileID: 21300000, guid: 2be8e9102d614984ab7139a5ce0ca9c7, type: 3}
+  - _id: 4
+    _images:
+    - {fileID: 21300000, guid: e0d089b93cc0bb742b9ea18da0e5e6ba, type: 3}
+    - {fileID: 21300000, guid: 9d4159d8624dd794c95d9a21754620c4, type: 3}
+  - _id: 5
+    _images:
+    - {fileID: 21300000, guid: e394a453f5ab2ac47ba88af10e140055, type: 3}
+  - _id: 6
+    _images:
+    - {fileID: 21300000, guid: 968300e7e61063949b75c545ddab42fc, type: 3}
+    - {fileID: 21300000, guid: aef72ddc8ed69de47ad8f08a55a2ea0e, type: 3}
+  - _id: 7
+    _images:
+    - {fileID: 21300000, guid: eacca9c068f27724383d0bf926b93930, type: 3}
+    - {fileID: 21300000, guid: 952f28cf4c0538640b52ac7d993d7729, type: 3}
+  - _id: 8
+    _images:
+    - {fileID: 21300000, guid: 7c525307c12c3d64eacc63049dd39c72, type: 3}
+    - {fileID: 21300000, guid: d543b4a4649fef841a544b6d7cfc1667, type: 3}
+  - _id: 9
+    _images:
+    - {fileID: 21300000, guid: 6a6b7ead34b86a74db6c2fc437e1c67d, type: 3}
+    - {fileID: 21300000, guid: 7654e5890b2f06246ae2322c8d422d97, type: 3}
+  - _id: 10
+    _images:
+    - {fileID: 21300000, guid: a7d31dcd7213fe443893d2efbc6e6b7f, type: 3}
+    - {fileID: 21300000, guid: dc20997771bedd544a1e1e90dbe524a1, type: 3}
+  - _id: 11
+    _images:
+    - {fileID: 21300000, guid: f5e1ae638222d9740b303d790b3f6bf0, type: 3}
+    - {fileID: 21300000, guid: 43c7727297ffce4469c8d9ff2e331d31, type: 3}
+  - _id: 12
+    _images:
+    - {fileID: 21300000, guid: 4e75b54d1c6e747429dc1ee06f8d3ea2, type: 3}
+    - {fileID: 21300000, guid: b284ea5ba3441b44689106086ea19ed7, type: 3}
+  - _id: 13
+    _images:
+    - {fileID: 21300000, guid: b34314a68c103f542affb91aed433715, type: 3}
+    - {fileID: 21300000, guid: f9bbaa69b9b0f97408fd9fd12079e02f, type: 3}
+    - {fileID: 21300000, guid: 5b6de64cdce2b904f9eeedb8330f68d3, type: 3}
+  - _id: 14
+    _images:
+    - {fileID: 21300000, guid: 6a5e34625c738d143ab082efb661a6f4, type: 3}
+    - {fileID: 21300000, guid: f6109f99cff80d942934b07290ced190, type: 3}
+  - _id: 15
+    _images:
+    - {fileID: 21300000, guid: 1fc3d515421b57e4caa1c0c9ef72f63c, type: 3}
+    - {fileID: 21300000, guid: c0eda39b888b70749af79853628cd435, type: 3}
+  - _id: 16
+    _images:
+    - {fileID: 21300000, guid: e99a0379aa504014e8be44634d3839f7, type: 3}
+    - {fileID: 21300000, guid: 2be8e9102d614984ab7139a5ce0ca9c7, type: 3}
+    - {fileID: 21300000, guid: e0d089b93cc0bb742b9ea18da0e5e6ba, type: 3}
+    - {fileID: 21300000, guid: 9d4159d8624dd794c95d9a21754620c4, type: 3}
+  _stretchAssetList:
+  - _id: 0
+    _images:
+    - {fileID: 21300000, guid: 60df9cd3879d664458ae8b53af2c9ac6, type: 3}
+  - _id: 1
+    _images:
+    - {fileID: 21300000, guid: 19a15a14b494bff43b9cf5e417396f6d, type: 3}
+  - _id: 2
+    _images:
+    - {fileID: 21300000, guid: 028f37b937f8e5a419b49ceef325ea11, type: 3}
+  - _id: 3
+    _images:
+    - {fileID: 21300000, guid: 53b02e54139eaf34bbb4f4004ee4225e, type: 3}
+  - _id: 4
+    _images:
+    - {fileID: 21300000, guid: 78cc6900a52429a4fbf211c684dbffda, type: 3}
+  - _id: 5
+    _images:
+    - {fileID: 21300000, guid: b3664361974e7684cb0702a997795dfd, type: 3}
+  - _id: 6
+    _images:
+    - {fileID: 21300000, guid: bccf058e5e7659b4994ff466d102615c, type: 3}
+  - _id: 7
+    _images:
+    - {fileID: 21300000, guid: dce98b874943b1e42bcbeef07862a2d5, type: 3}
+  - _id: 8
+    _images:
+    - {fileID: 21300000, guid: 94ba90ab37b3f154286d4c897fdceb14, type: 3}
+  - _id: 9
+    _images:
+    - {fileID: 21300000, guid: 1ebf653b057c759468ac5b66253a9bae, type: 3}
+  - _id: 10
+    _images:
+    - {fileID: 21300000, guid: b269a0d03b8f7db479b564fe7b41367e, type: 3}
+  - _id: 11
+    _images:
+    - {fileID: 21300000, guid: d99406094e58dde49be0f6d7d64a0c58, type: 3}
+  - _id: 12
+    _images:
+    - {fileID: 21300000, guid: 69167041319e3ef43ae0d7ce21772c27, type: 3}
+  - _id: 13
+    _images:
+    - {fileID: 21300000, guid: 82dff1df4c3ea8946a2b9c79d88d1b1d, type: 3}
+  - _id: 14
+    _images:
+    - {fileID: 21300000, guid: e0abd2f1c034d6743952aeeb0b61410b, type: 3}
+  - _id: 15
+    _images:
+    - {fileID: 21300000, guid: 6271e83a4ab537c4998086139bc64363, type: 3}
+  - _id: 16
+    _images:
+    - {fileID: 21300000, guid: a3354ceffa7613d48ace47c4a3d4876d, type: 3}
+  - _id: 17
+    _images:
+    - {fileID: 21300000, guid: 60df9cd3879d664458ae8b53af2c9ac6, type: 3}
+  _postureConditionAssetList:
+  - _id: 1
+    _training: 13
+    _stretch: 6
+  - _id: 2
+    _training: 13
+    _stretch: 7
+  - _id: 3
+    _training: 6
+    _stretch: 17
+  - _id: 4
+    _training: 13
+    _stretch: 7
+  - _id: 5
+    _training: 11
+    _stretch: 2
+  - _id: 6
+    _training: 6
+    _stretch: 0
+  - _id: 7
+    _training: 12
+    _stretch: 5
+  - _id: 8
+    _training: 0
+    _stretch: 0
+  - _id: 9
+    _training: 11
+    _stretch: 2
+  - _id: 10
+    _training: 6
+    _stretch: 0
+  - _id: 11
+    _training: 13
+    _stretch: 6
+  - _id: 12
+    _training: 13
+    _stretch: 7
+  - _id: 13
+    _training: 10
+    _stretch: 11
+  - _id: 14
+    _training: 9
+    _stretch: 10
+  - _id: 15
+    _training: 8
+    _stretch: 4
+  - _id: 16
+    _training: 7
+    _stretch: 3
+  - _id: 19
+    _training: 12
+    _stretch: 14
+  - _id: 20
+    _training: 12
+    _stretch: 13
+  - _id: 21
+    _training: 4
+    _stretch: 16
+  - _id: 22
+    _training: 3
+    _stretch: 15
+  - _id: 23
+    _training: 16
+    _stretch: 1
+  - _id: 24
+    _training: 5
+    _stretch: 12
+  - _id: 25
+    _training: 2
+    _stretch: 16
+  - _id: 26
+    _training: 1
+    _stretch: 15
+  - _id: 27
+    _training: 13
+    _stretch: 8
+  - _id: 28
+    _training: 13
+    _stretch: 9
+  - _id: 29
+    _training: 14
+    _stretch: 3
+  - _id: 30
+    _training: 15
+    _stretch: 4
+  - _id: 31
+    _training: 8
+    _stretch: 4
+  - _id: 32
+    _training: 7
+    _stretch: 3

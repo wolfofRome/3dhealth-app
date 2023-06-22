@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "731083168113-ndk2jmm5teb53co7g8hk3qfde9hs0fnp.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkPPPaOUqsvDhnavcxr5XDk0UohqqNwtc"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:731083168113:ios:68e9b07358c025c9", 
+        "android_client_info": {
+          "package_name": "jp.co.threedbodylab.pocket"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "i-body-release-6ca52.appspot.com", 
+    "project_id": "i-body-release-6ca52", 
+    "firebase_url": "https://i-body-release-6ca52.firebaseio.com", 
+    "project_number": "731083168113"
+  }
+}

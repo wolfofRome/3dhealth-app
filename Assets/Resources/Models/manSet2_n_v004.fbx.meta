@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 1990b606caa455a42a20a67c38e60eb1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ashikubi_L
+    100002: Ashikubi_R
+    100004: Back
+    100006: bone
+    100008: Camera_(1)
+    100010: Camera_(2)
+    100012: Daitenshi_L
+    100014: Daitenshi_R
+    100016: fat_man_n+5
+    100018: Fil
+    100020: head
+    100022: hips
+    100024: Hizagashira_L
+    100026: Hizagashira_R
+    100028: hone_man2_n_v002
+    100030: Jushin
+    100032: LeftArm
+    100034: LeftDownScale1
+    100036: LeftDownScale2
+    100038: LeftFoot
+    100040: LeftForeArm
+    100042: LeftHand_(1)
+    100044: LeftHand_(2)
+    100046: LeftLeg
+    100048: LeftShoulder
+    100050: LeftToeBase_(1)
+    100052: LeftUpLeg
+    100054: LeftUpScale1
+    100056: Light
+    100058: //RootNode
+    100060: muscle_man_n+6
+    100062: neck_(1)
+    100064: neck_(2)
+    100066: neck_(3)
+    100068: RightArm
+    100070: RightDownScale1
+    100072: RightDownScale2
+    100074: RightFoot
+    100076: RightForeArm
+    100078: RightHand_(1)
+    100080: RightHand_(2)
+    100082: RightLeg
+    100084: RightShoulder
+    100086: RightToeBase_(1)
+    100088: RightUpLeg
+    100090: RightUpScale1
+    100092: spine
+    100094: spine1
+    100096: spine2
+    400000: Ashikubi_L
+    400002: Ashikubi_R
+    400004: Back
+    400006: bone
+    400008: Camera_(1)
+    400010: Camera_(2)
+    400012: Daitenshi_L
+    400014: Daitenshi_R
+    400016: fat_man_n+5
+    400018: Fil
+    400020: head
+    400022: hips
+    400024: Hizagashira_L
+    400026: Hizagashira_R
+    400028: hone_man2_n_v002
+    400030: Jushin
+    400032: LeftArm
+    400034: LeftDownScale1
+    400036: LeftDownScale2
+    400038: LeftFoot
+    400040: LeftForeArm
+    400042: LeftHand_(1)
+    400044: LeftHand_(2)
+    400046: LeftLeg
+    400048: LeftShoulder
+    400050: LeftToeBase_(1)
+    400052: LeftUpLeg
+    400054: LeftUpScale1
+    400056: Light
+    400058: //RootNode
+    400060: muscle_man_n+6
+    400062: neck_(1)
+    400064: neck_(2)
+    400066: neck_(3)
+    400068: RightArm
+    400070: RightDownScale1
+    400072: RightDownScale2
+    400074: RightFoot
+    400076: RightForeArm
+    400078: RightHand_(1)
+    400080: RightHand_(2)
+    400082: RightLeg
+    400084: RightShoulder
+    400086: RightToeBase_(1)
+    400088: RightUpLeg
+    400090: RightUpScale1
+    400092: spine
+    400094: spine1
+    400096: spine2
+    4300000: fat_man_n+5
+    4300002: muscle_man_n+6
+    4300004: hone_man2_n_v002
+    9500000: //RootNode
+    13700000: fat_man_n+5
+    13700002: hone_man2_n_v002
+    13700004: muscle_man_n+6
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_L
+    second: {fileID: 2100000, guid: 1df2177f24cf5ea47932f40bed6ca09b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_R
+    second: {fileID: 2100000, guid: ad095404c63cc0045bcc1587580fbf8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leg_L
+    second: {fileID: 2100000, guid: 787f57cc37831ad499d9d2d2d23fd65b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leg_R
+    second: {fileID: 2100000, guid: 2de830fdcf75b5b4188e5117f45c1fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muscular_System_01
+    second: {fileID: 2100000, guid: 84d41e82fdf519d439a249ae83417012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk
+    second: {fileID: 2100000, guid: 844eafbf45b8c754aa33cbfca7603fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: daitai_l_b
+    second: {fileID: 2100000, guid: c646a03a4d47e3c4288636afc632a047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: daitai_l_nan1
+    second: {fileID: 2100000, guid: 7e37684fe141a5b418aa6faabd08824d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: daitai_l_nan2
+    second: {fileID: 2100000, guid: dfb13b6b30770584aa54a27560833853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: daitai_r_b
+    second: {fileID: 2100000, guid: de482484d6fcb3442997f8ccffc19ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: daitai_r_nan1
+    second: {fileID: 2100000, guid: 896c533f3733bdb439d49775d26f643b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: daitai_r_nan2
+    second: {fileID: 2100000, guid: 00ba63f8ffe4795449f44df5e00dab98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ear_nan
+    second: {fileID: 2100000, guid: 6218383b48c6e0e46aa6ab4468485c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foot_l_b
+    second: {fileID: 2100000, guid: 5d24d5ec41ec5a94d9fc41c7fdf27231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foot_l_nan
+    second: {fileID: 2100000, guid: 222731d1bcd9dc3418e622206ce8614e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foot_r_b
+    second: {fileID: 2100000, guid: 6dd33b73d111726439eeb861d42df36c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foot_r_nan
+    second: {fileID: 2100000, guid: af3105d780d14804ba0753c0a21abc44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_l_b
+    second: {fileID: 2100000, guid: 675143fc94a5b1744ac85e3980baeb4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_l_nan
+    second: {fileID: 2100000, guid: 3e14771bfa0f57941bb2fc723c405108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_r_b
+    second: {fileID: 2100000, guid: e03a9eca25a369048b7c441c9516e8c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_r_nan
+    second: {fileID: 2100000, guid: a7df34b417268ee4c80e471d8f933e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head_b
+    second: {fileID: 2100000, guid: fcf79613fff88ec42ba543eb9d5ef351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jowan_l_b
+    second: {fileID: 2100000, guid: 4ba5a45b62cf6e34e8570e2e4ada8cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jowan_l_nan1
+    second: {fileID: 2100000, guid: e1a1cb283bfa942438facbb2a1ff5adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jowan_l_nan2
+    second: {fileID: 2100000, guid: 220f97c9808b10b49ac3d6e2ba1ea5b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jowan_r_b
+    second: {fileID: 2100000, guid: 5c6404e3b4a2dfb4091b75571974c60d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jowan_r_nan1
+    second: {fileID: 2100000, guid: 3ca6324a261906147b7483da4393a0f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jowan_r_nan2
+    second: {fileID: 2100000, guid: ddd09fffead84064396f402b4520d00b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kankotsu_b
+    second: {fileID: 2100000, guid: 598c04002c8555740887bedb90fd254e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kenko_l_b
+    second: {fileID: 2100000, guid: 9cd5e049e4a08f54db795d2d759a3921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kenko_r_b
+    second: {fileID: 2100000, guid: 4c91d44e6015c67439cfcec03b576507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kyotsui_b
+    second: {fileID: 2100000, guid: 6bb8af064c1534240882e6f115321352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kyotsui_nan
+    second: {fileID: 2100000, guid: 38e2329e8bc3ae5418502d6ced371456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neck_b
+    second: {fileID: 2100000, guid: ac25cda810d110341a0f971ed6199cb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neck_nan
+    second: {fileID: 2100000, guid: 294aeda28bc43c94198db673c008f595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nose_nan
+    second: {fileID: 2100000, guid: 8499d34132bfa644d81b5479d9d7f07c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rokkotsu_b
+    second: {fileID: 2100000, guid: 9b267a3392237124da148393291e6e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rokkotsu_nan
+    second: {fileID: 2100000, guid: 07df9f9524afa1d4ba3e343e41e1175a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sakotsu_l_b
+    second: {fileID: 2100000, guid: 5a90dd2de61ba8a488c17aa49d919b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sakotsu_r_b
+    second: {fileID: 2100000, guid: 2399120f037664e44bd6592b7579947a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: senkotsu_b
+    second: {fileID: 2100000, guid: 528d6131304aa944fb8b203eb53ea382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sune_l_b
+    second: {fileID: 2100000, guid: 2931e52a729a9fe4792c95c67a1479ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sune_l_nan
+    second: {fileID: 2100000, guid: 2e8dc3eca073c784aa6fab401687c3c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sune_r_b
+    second: {fileID: 2100000, guid: 3780cc4c99f421545a8707f8775442a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sune_r_nan
+    second: {fileID: 2100000, guid: f32ffc2c91626e54f9e5a323e5491315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yotsui_b
+    second: {fileID: 2100000, guid: 291d67e34002e0642a4b662311ff7778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yotsui_nan
+    second: {fileID: 2100000, guid: 4d21d86018fce7149b6853d993f419ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenwan_l_b
+    second: {fileID: 2100000, guid: 3167303c5a6294944a6b742f8d54a82e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenwan_l_nan1
+    second: {fileID: 2100000, guid: 0bc2dfa1c3f0ab64586561c655d2dc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenwan_l_nan2
+    second: {fileID: 2100000, guid: 0934236904f8c1a4e94b795aad556dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenwan_r_b
+    second: {fileID: 2100000, guid: 17a9979087aeedd4699b1822bc6990fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenwan_r_nan1
+    second: {fileID: 2100000, guid: d8d4cc455fc8c9b42bd69a46ce8ce0c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenwan_r_nan2
+    second: {fileID: 2100000, guid: 65e4eee9fdb02d9458e64661105391d4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

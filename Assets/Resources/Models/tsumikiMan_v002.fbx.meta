@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 2cc90a74cc261604d9b1da3a2ea1365c
+timeCreated: 1489493736
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: bone
+    100004: Camera_(1)
+    100006: Camera_(2)
+    100008: Fil
+    100010: head
+    100012: hips
+    100014: LeftArm
+    100016: LeftDownScale1
+    100018: LeftDownScale2
+    100020: LeftFoot
+    100022: LeftForeArm
+    100024: LeftHand_(1)
+    100026: LeftHand_(2)
+    100028: LeftLeg
+    100030: LeftShoulder
+    100032: LeftToeBase_(1)
+    100034: LeftUpLeg
+    100036: LeftUpScale1
+    100038: Light
+    100040: neck_(1)
+    100042: neck_(2)
+    100044: neck_(3)
+    100046: RightArm
+    100048: RightDownScale1
+    100050: RightDownScale2
+    100052: RightFoot
+    100054: RightForeArm
+    100056: RightHand_(1)
+    100058: RightHand_(2)
+    100060: RightLeg
+    100062: RightShoulder
+    100064: RightToeBase_(1)
+    100066: RightUpLeg
+    100068: RightUpScale1
+    100070: spine
+    100072: spine1
+    100074: spine2
+    100076: tsumikiMan
+    100078: //RootNode
+    100080: waist
+    400000: Back
+    400002: bone
+    400004: Camera_(1)
+    400006: Camera_(2)
+    400008: Fil
+    400010: head
+    400012: hips
+    400014: LeftArm
+    400016: LeftDownScale1
+    400018: LeftDownScale2
+    400020: LeftFoot
+    400022: LeftForeArm
+    400024: LeftHand_(1)
+    400026: LeftHand_(2)
+    400028: LeftLeg
+    400030: LeftShoulder
+    400032: LeftToeBase_(1)
+    400034: LeftUpLeg
+    400036: LeftUpScale1
+    400038: Light
+    400040: neck_(1)
+    400042: neck_(2)
+    400044: neck_(3)
+    400046: RightArm
+    400048: RightDownScale1
+    400050: RightDownScale2
+    400052: RightFoot
+    400054: RightForeArm
+    400056: RightHand_(1)
+    400058: RightHand_(2)
+    400060: RightLeg
+    400062: RightShoulder
+    400064: RightToeBase_(1)
+    400066: RightUpLeg
+    400068: RightUpScale1
+    400070: spine
+    400072: spine1
+    400074: spine2
+    400076: tsumikiMan
+    400078: //RootNode
+    400080: waist
+    4300000: tsumikiMan
+    9500000: //RootNode
+    13700000: tsumikiMan
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

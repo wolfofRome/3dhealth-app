@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8e698055d27fda04cb39626696b49b58
+timeCreated: 1454580265
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 0
+  fontNames:
+  - MotoyaLMaru
+  - MotoyaLCedar
+  - RobotoSansFallback
+  - Droid Sans Fallback
+  - M+ 2p
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
